@@ -1,0 +1,2 @@
+My first line
+Here comes line number 2.
